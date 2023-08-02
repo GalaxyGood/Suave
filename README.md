@@ -6,6 +6,6 @@
         <title> Allan </title>
     </head>
     <body>
-        <link src="content://media/external/downloads/5090" href="./favicon.png" type="image/png">
+        <link src="vasco-da-gama.png" type="image/png">
     </body>
 </html>
