@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width inicial-scale:1.0">
-        <link rel="icon" href="./favicon.png" type="vasco-da-gama.png">
+        <link rel="vasco-da-gama.png" href="./favicon.png" type="image/png">
         <title> Allan </title>
     </head>
     <body>
