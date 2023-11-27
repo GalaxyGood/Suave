@@ -1,18 +1,22 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width inicial-scale:1.0">
-        <title> Allan </title>
-        <link rel="stylesheet" type="text/css" href="styles.css" />
-        
-    </head>
-    <body>
-   <h1><mark style="background-color:red;">Seleção Brasileira</mark></h1>
-    <p>A seleção do Brasil conta com 5 Copas do Mundo atualmente mas, a geração atual nunca pode comemorar a vitória de nenhuma delas pois a ultima vitória em uma copa foi em 2002.</p> 
-<picture>
-  <source media="(min-width: 600px)" />
-  <img src="pombo.jpg" alt="pombo" />
-</picture>
-    </body>
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Site Aleatório</title>
+</head>
+<body>
+
+    <h1>Bem-vindo ao Meu Site Aleatório!</h1>
+
+    <!-- Link Aleatório -->
+    <p>Aqui está um <a href="https://www.example.com" target="_blank">link aleatório</a>.</p>
+
+    <!-- Imagem Aleatória -->
+    <img src="https://placekitten.com/300/200" alt="Imagem Aleatória">
+
+    <!-- Vídeo Aleatório -->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+
+</body>
 </html>
